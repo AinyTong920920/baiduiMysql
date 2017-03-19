@@ -104,7 +104,7 @@ SQL 代码：
 
     > app.use('/admin',admin);
 
-    后台页面模版使用jade，利用bootstript生成
+    后台页面模版使用jade，利用bootstrap生成
 
 ## 3.客户端
 
