@@ -1,4 +1,4 @@
-# 百度新闻node-MySQL
+# node-MySQL
 ## 一、整体思路
 分为三个方面
 
